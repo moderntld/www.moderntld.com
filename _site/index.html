@@ -1,7 +1,65 @@
----
-layout: default
----
-<style>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <title>ModernTLD</title>
+    <meta name="description" content="ModernTLD provides free domain registration on the OpenNIC network. Check out our site to learn more on how to connect to OpenNIC and get your very own domain for free!
+">
+    <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="ModernTLD" />
+    <link type="text/css" rel="stylesheet" href="/assets/css/Material-icons.css" media="screen,projection">
+    <link type="text/css" rel="stylesheet" href="/assets/css/app.css" media="screen,projection">
+    <link rel="canonical" href="http://localhost:4000/">
+</head>
+
+<body>
+    <header>
+        <div class="navbar-fixed">
+<nav class="white blue-text z-depth-0">
+    <ul id="slide-out" class="side-nav">
+        <li><a href="/" class="blue-text">Home</a></li>
+        
+            
+                <li><a href="/about/" class="blue-text">About</a></li>
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+        <li><a href="/feed.xml" class="blue-text">Feed</a></li>
+    </ul>
+    <div class="container container-large">
+    <a class="brand-logo" href="/" class="blue-text"><span class="light blue-text"><b>ModernTLD</b></span></a>
+    <ul class="right hide-on-med-and-down">
+        
+            
+                <li><a href="/about/" class="blue-text">About</a></li>
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+        <li><a href="/feed.xml" class="blue-text">Feed</a></li>
+    </ul>
+    <a href="#" data-activates="slide-out" class="button-collapse right blue-text"><i class="material-icons">menu</i></a>
+    </div>
+</nav>
+</div>
+
+    </header>
+    <main>
+        <style>
 .icon-block {
   padding: 0 15px;
 }
@@ -152,3 +210,46 @@ layout: default
 		</div>
 	</div>
 </div>
+
+    </main>
+    <footer class="page-footer no-margin __top blue">
+          <div class="container container-large">
+    <div class="row">
+      <div class="col l4 s12">
+        <h5 class="white-text">Links</h5>
+        <ul>
+          
+          <li><a class="grey-text text-lighten-3" href="https://github.com/ModernTLD"><i class="fa fa-github"></i>&nbsp;&nbsp;ModernTLD</a></li>
+          <li><a class="grey-text text-lighten-3" href="https://twitter.com/ModernTLD"><i class="fa fa-twitter"></i>&nbsp;&nbsp;@ ModernTLD</a></li>
+          <li><a class="grey-text text-lighten-3" href="mailto:jonah@moderntld.com"><i class="fa fa-send"></i>&nbsp;&nbsp;jonah@moderntld.com</a></li>
+        </ul>
+      </div>
+      <div class="col l6 offset-l2 s12 right-align">
+        <h5 class="white-text"><b>ModernTLD</b></h5>
+        <p class="grey-text text-lighten-4">ModernTLD provides free domain registration on the OpenNIC network. Check out our site to learn more on how to connect to OpenNIC and get your very own domain for free!
+</p>
+      </div>
+    </div>
+  </div>
+  <div class="footer-copyright">
+    <div class="container center-align">
+      Build with <i class="fa fa-broken-heart"></i> and <a class="white-text" href="https://github.com/riefachan/jekyll-materialize">jekyll-materialize</a>
+    </div>
+  </div>
+
+    </footer>
+    <script type="text/javascript" src="/assets/js/jquery.js"></script>
+    <script type="text/javascript" src="/assets/js/materialize.js"></script>
+    <script type="text/javascript">
+    $(function() {
+
+        //fontawesome broken-heart icon
+        var faFlash=$('footer').css('background-color'),
+            faFlash='color:'+faFlash+';transform:scale(1,2);-webkit-transform:scale(1,2);-moz-transform:scale(1,2);-ms-transform:scale(1,2);-o-transform:scale(1,2)';
+        $('i.fa.fa-broken-heart').html('<span style="padding:5px"><span class="fa-broken-heart fa-stack"><i class="fa fa-heart fa-stack-2x"></i><i class="fa fa-flash fa-stack-1x" style="'+faFlash+'"></i></span></span>');
+        $(".button-collapse").sideNav();
+        $('nav a').addClass('waves-effect');
+    });
+    </script>
+</body>
+</html>
