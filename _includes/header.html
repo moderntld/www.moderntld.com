@@ -1,23 +1,17 @@
-<div class="navbar-fixed">
 <nav class="white blue-text z-depth-0">
     <ul id="slide-out" class="side-nav">
         <li><a href="{{ site.baseurl }}/" class="blue-text">Home</a></li>
-        {% for page in site.pages %}
-            {% if page.title %}
-                <li><a href="{{ page.url | prepend: site.baseurl }}" class="blue-text">{{ page.title }}</a></li>
-            {% endif %}
-        {% endfor %}
+        <li><a href="{{ page.url | prepend: site.baseurl }}" class="blue-text">{{ page.title }}</a></li>
         <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}" class="blue-text">Feed</a></li>
     </ul>
     <div class="container container-large">
     <a class="brand-logo" href="{{ site.baseurl }}/" class="blue-text"><span class="light blue-text">{{ site.logo }}</span></a>
     <ul class="right hide-on-med-and-down">
-        {% for page in site.pages %}
-            {% if page.title %}
-                <li><a href="{{ page.url | prepend: site.baseurl }}" class="blue-text">{{ page.title }}</a></li>
-            {% endif %}
-        {% endfor %}
-        <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}" class="blue-text">Feed</a></li>
+	<li><a href="{{ "/get-started" | prepend: site.baseurl }}" class="blue-text">Get Started</a></li>
+	<li><a href="https://status.moderntld.com/" class="blue-text">Status</a></li>
+	<li><a href="{{ "/about" | prepend: site.baseurl }}" class="blue-text">About Us</a></li>
+	<li><a href="#" class="blue-text">Services</a></li>
+	<li><a href="https://blog.moderntld.com/" class="blue-text">News</a></li>
     </ul>
     <a href="#" data-activates="slide-out" class="button-collapse right blue-text"><i class="material-icons">menu</i></a>
     </div>
