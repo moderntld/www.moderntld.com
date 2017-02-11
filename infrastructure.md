@@ -18,6 +18,7 @@ Tier 2 Servers are recursive DNS servers for the OpenNIC zone and LegacyDNS (ICA
 
 - ns10.ny.us.dns.opennic.glue / 138.197.25.214
 - ns3.ia.us.dns.opennic.glue / 52.173.73.208
+- ns5.wa.us.dns.opennic.glue / 52.175.214.157 (**Experimental** - DNSSEC *Validating* and [DNSCrypt Enabled](https://servers.opennicproject.org/edit.php?srv=ns5.wa.us.dns.opennic.glue))
 
 ### Services
 
