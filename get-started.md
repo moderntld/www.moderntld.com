@@ -14,8 +14,8 @@ Accessing ModernTLD Websites, including our registration pages, requires changin
 
 Step 1. Choose your [DNS servers](/infrastructure)! You can use the following two:
 
-- 138.197.25.214
-- 52.173.73.208
+- 45.76.27.27 (IPv6: 2001:19f0:5c01:405::53)
+- 138.197.25.214 (IPv6: 2604:a880:800:10::1f02:d001)
 
 Or you can grab two random ones from [this list](https://servers.opennicproject.org/), it doesn’t matter.
 
@@ -45,4 +45,3 @@ Join us on Freenode at #ModernTLD! [Click here](/irc) for more information or to
 ##### Domain Registration
 
 Reserve your space on the OpenNIC alt-root network with your very own “.o” domain! This allows you to easily access your webservers when using a computer that utilizes the OpenNIC DNS infrastructure. Registration is 100% free! **[Register](http://register.o/)**
-

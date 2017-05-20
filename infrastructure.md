@@ -16,9 +16,9 @@ ModernTLD operates one Tier 1 server on the OpenNIC network: ns11.opennic.glue
 
 Tier 2 Servers are recursive DNS servers for the OpenNIC zone and LegacyDNS (ICANN) zones. These are not authoritative and are intended for use by general consumers when setting up their computers/devices.
 
-- ns10.ny.us.dns.opennic.glue / 138.197.25.214
-- ns3.ia.us.dns.opennic.glue / 52.173.73.208
-- ns5.wa.us.dns.opennic.glue / 52.175.214.157 (**Experimental** - DNSSEC *Validating* and [DNSCrypt Enabled](https://servers.opennicproject.org/edit.php?srv=ns5.wa.us.dns.opennic.glue))
+- ns1.il.us.dns.opennic.glue / **45.76.27.27** / 2001:19f0:5c01:405::53
+- ns10.ny.us.dns.opennic.glue / **138.197.25.214** / 2604:a880:800:10::1f02:d001
+- ns3.ia.us.dns.opennic.glue / **52.173.73.208**
 
 ### Services
 

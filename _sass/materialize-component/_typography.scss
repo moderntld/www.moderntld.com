@@ -36,6 +36,8 @@ h4 { font-size: $h4-fontsize; line-height: 110%; margin: ($h4-fontsize / 2) 0 ($
 h5 { font-size: $h5-fontsize; line-height: 110%; margin: ($h5-fontsize / 2) 0 ($h5-fontsize / 2.5) 0;}
 h6 { font-size: $h6-fontsize; line-height: 110%; margin: ($h6-fontsize / 2) 0 ($h6-fontsize / 2.5) 0;}
 
+.dns { font-size: $h5-fontsize; line-height: 200%; font-weight: 400; }
+
 // Text Styles
 em { font-style: italic; }
 strong { font-weight: 500; }
