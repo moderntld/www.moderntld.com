@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/jonaharagon
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://moderntld.com
+  * I am jonaharagon (https://keybase.io/jonaharagon) on keybase.
+  * I have a public key ASAeN54SEZajb8wZyzavFYC9ALOPTVucNccTqpWbDfKJ5wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01014354fcf62ba0752c5ceb6175fbecef4205b22adc102cb9f4963546960039f9c20a",
+      "host": "keybase.io",
+      "kid": "01201e379e121196a36fcc19cb36af1580bd00b38f4d5b9c35c713aa959b0df289e70a",
+      "uid": "3164c4d37d2d2bea011091787d7bc119",
+      "username": "jonaharagon"
+    },
+    "merkle_root": {
+      "ctime": 1520629880,
+      "hash": "8ade7fddd5e10f7c718274500f14929910d2207ec33904ae58f1f5b8a1e5dfa2a170aef9689327d9dae46a3458d916eff6032e1bc1faa48a81d4e095dc58962d",
+      "hash_meta": "1ec0e09027438c9ccfa91a77070ac5813b16da88d01343db1c927dfe9352e54f",
+      "seqno": 2212704
+    },
+    "service": {
+      "hostname": "moderntld.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.41"
+  },
+  "ctime": 1520629900,
+  "expire_in": 504576000,
+  "prev": "c3e226952d37756ce2a8665fb1c958775c8139f6594bbd4431421a756ab89f4c",
+  "seqno": 59,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgHjeeEhGWo2/MGcs2rxWAvQCzj01bnDXHE6qVmw3yiecKp3BheWxvYWTFA0l7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxNDM1NGZjZjYyYmEwNzUyYzVjZWI2MTc1ZmJlY2VmNDIwNWIyMmFkYzEwMmNiOWY0OTYzNTQ2OTYwMDM5ZjljMjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMWUzNzllMTIxMTk2YTM2ZmNjMTljYjM2YWYxNTgwYmQwMGIzOGY0ZDViOWMzNWM3MTNhYTk1OWIwZGYyODllNzBhIiwidWlkIjoiMzE2NGM0ZDM3ZDJkMmJlYTAxMTA5MTc4N2Q3YmMxMTkiLCJ1c2VybmFtZSI6ImpvbmFoYXJhZ29uIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTIwNjI5ODgwLCJoYXNoIjoiOGFkZTdmZGRkNWUxMGY3YzcxODI3NDUwMGYxNDkyOTkxMGQyMjA3ZWMzMzkwNGFlNThmMWY1YjhhMWU1ZGZhMmExNzBhZWY5Njg5MzI3ZDlkYWU0NmEzNDU4ZDkxNmVmZjYwMzJlMWJjMWZhYTQ4YTgxZDRlMDk1ZGM1ODk2MmQiLCJoYXNoX21ldGEiOiIxZWMwZTA5MDI3NDM4YzljY2ZhOTFhNzcwNzBhYzU4MTNiMTZkYTg4ZDAxMzQzZGIxYzkyN2RmZTkzNTJlNTRmIiwic2Vxbm8iOjIyMTI3MDR9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoibW9kZXJudGxkLmNvbSIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjQxIn0sImN0aW1lIjoxNTIwNjI5OTAwLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6ImMzZTIyNjk1MmQzNzc1NmNlMmE4NjY1ZmIxYzk1ODc3NWM4MTM5ZjY1OTRiYmQ0NDMxNDIxYTc1NmFiODlmNGMiLCJzZXFubyI6NTksInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAeoWU6FrobgmVi4X/928OiDcw21bEPLSpuRp5/boFpCuBVGICIddAwhbzJlhE3rmTcOCenCuoq7TarA9tIFPFAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMq03dzNbUECsJALvu7fYMvHzK8c5kWuT0T/uH7MT2SHo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jonaharagon
+
+==================================================================
