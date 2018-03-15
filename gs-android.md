@@ -9,7 +9,7 @@ permalink: /get-started/android/
 Before you begin, you will need to choose two DNS servers. You can either pick from [this list](https://servers.opennic.org/), or use these two:
 
 * 198.251.90.143 (ModernTLD Anycast Server)
-* 138.197.25.214 (ModernTLD New York Server)
+* 185.121.177.177 (Fusl's Anycast Server)
 
 *[More info](/infrastructure)*
 
