@@ -4,7 +4,11 @@ title: Adblocking Lists
 permalink: /adlists/
 ---
 
-We are currently operating [ns4.ny.us.dns.opennic.glue](https://servers.opennicproject.org/edit.php?srv=ns4.ny.us.dns.opennic.glue) (167.99.153.82) as an adblocking server. We are currently using the following lists:
+We are currently operating [ns4.ny.us.dns.opennic.glue](https://servers.opennicproject.org/edit.php?srv=ns4.ny.us.dns.opennic.glue) (167.99.153.82) as an adblocking server. 
+
+If you have an issue with our services, or would like to request a domain be white/blacklisted, contact adblocking@triplebit.net.
+
+We are currently using the following lists:
 
 ## Blacklist
 
